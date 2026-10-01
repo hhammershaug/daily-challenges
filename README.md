@@ -18,7 +18,7 @@ A personal log for tracking daily programming challenges and problem-solving exe
 ```bash
 git clone https://github.com
 
-#### Game 1
+Game 1
 -----------------------
 cd daily-challenges/quiz-game
 python quiz-game.py

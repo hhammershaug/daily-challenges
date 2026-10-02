@@ -9,7 +9,7 @@ quiz-spill i Python med poengtelling. Kjøres i terminalen.
 - Python 3
 - Python
 ```powershell
-python quiz-gam/quiz-game.py
+python game.py
 ```
 
 ## Slik spiller du

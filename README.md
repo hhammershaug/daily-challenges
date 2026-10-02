@@ -21,5 +21,5 @@ git clone https://github.com
 Game 1
 -----------------------
 cd daily-challenges/quiz-game
-python quiz-game.py
+python game.py
 ```

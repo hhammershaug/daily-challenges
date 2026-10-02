@@ -8,7 +8,7 @@ En 3D-fysikksimulator i Python som beregner banen til en pil skutt gjennom lufta
 ## Krav & Kjøring
 - Python 3
 ```powershell
-python arrow-simulator/arrow.py
+python arrow.py
 ```
 
 ## Slik fungerer simulatoren

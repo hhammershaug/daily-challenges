@@ -1,3 +1,4 @@
 quiz-game
 number-guessing-game
 arrow-simulator
+rock-paper-scissors

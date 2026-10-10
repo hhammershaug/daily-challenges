@@ -1,20 +1,20 @@
 ### Harald Hammershaug
 - S374171 / S374171@oslomet.no
 
-# Stein-Saks-Papir Game
+# Rock-Paper-Scissors Game
 
-Stein-saks-papir-spill i Python mot datamaskinen. Kjøres i terminalen. 
+A Rock-Paper-Scissors game in Python played against the computer. Runs directly in the terminal.
 
-## Krav & Kjøring
+## Requirements & Running
 - Python 3
-- Kjøres med følgende kommando:
+- Run with the following command:
 ```powershell
 python game.py
 ```
 
-## Slik spiller du
-1. Svar `yes` for å starte spillet.
-2. Skriv inn ditt valg: `rock`, `paper` eller `scissors`.
-3. Store/små bokstaver har ingenting å si (`.lower()` håndterer dette).
-4. Spillet sammenligner valget ditt mot datamaskinens tilfeldige valg.
-5. Spillet holder kontroll på poengsummen og viser sluttscore når du avslutter.
+## How to Play
+1. Enter your choice: `rock`, `paper`, or `scissors`.
+2. Case does not matter (`.lower()` handles this automatically).
+3. The game compares your choice against a random choice from the computer.
+4. The game automatically updates and tracks the score of player & computer
+5. Enter `y` to play another round, or `n` to exit.

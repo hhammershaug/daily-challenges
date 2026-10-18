@@ -3,9 +3,8 @@
 
 # Optimized Traffic Signal Timing Plan
 
-================================================================================
-NORSK VERSJON (NO)
-================================================================================
+
+#### NORSK VERSJON (NO)
 Beregning og optimalisering av signalfaser for et 4-faset vegkryss ved bruk av Websters metode. Kjøres i terminalen.
 
 ## Krav & Kjøring
@@ -22,9 +21,8 @@ python optimized-traffic-signal-timing-plan/game.py
 4. Deler opp omløpstiden og spytter ut en ferdig signalplanmatrix med nøyaktige sekunder for grønt og gult lys.
 
 
-================================================================================
-ENGLISH VERSION (ENG)
-================================================================================
+
+#### ENGLISH VERSION (ENG)
 Calculation and optimization of signal phases for a 4-phase intersection using Webster's method. Runs in the terminal.
 
 ## Requirements & Execution

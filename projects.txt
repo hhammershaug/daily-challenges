@@ -2,3 +2,4 @@ quiz-game
 number-guessing-game
 arrow-simulator
 rock-paper-scissors
+optimized-traffic-signal-timing-plan
